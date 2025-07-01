@@ -23,8 +23,8 @@
 
 - 📫 How to reach me:  
   📧 kumawataksh112@gmail.com  
-  🔗 [LinkedIn](https://www.linkedin.com/in/aakash-verma-nitj/)  
-  🌐 [Portfolio Website](https://crafted-canvas.netlify.app)  
+  🔗 [LinkedIn](https:/www.linkedin.com/in/aakash-verma-669062269/)  
+  🌐 [Portfolio Website](https://crafted-canvas.vercel.app/)  
 
 ---
 
